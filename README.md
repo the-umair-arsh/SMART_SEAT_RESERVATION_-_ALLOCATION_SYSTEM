@@ -24,7 +24,7 @@
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 **Smart Seat Reservation & Allocation System** is a web-based application developed to simplify participant registration, batch organization, seat reservation, and seating allocation.
 
@@ -41,11 +41,6 @@ The project is built using **HTML, CSS, PHP, and JSON**, and can be run locally 
 - View participant information
 - Delete participants
 - Maintain organized participant records
-
-### 🎓 Batch Management
-- Organize participants according to batches
-- Maintain structured participant information
-- Support batch-based seating organization
 
 ### 💺 Seat Reservation & Allocation
 - Allocate available seats to participants
