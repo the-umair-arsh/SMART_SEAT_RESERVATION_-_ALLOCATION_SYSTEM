@@ -1,0 +1,57 @@
+[
+    {
+        "name": "umair",
+        "category": "VIP",
+        "payment_time": 1
+    },
+    {
+        "name": "saad",
+        "category": "VIP",
+        "payment_time": 2
+    },
+    {
+        "name": "Fareed",
+        "category": "Semi-Inclusive",
+        "payment_time": 2
+    },
+    {
+        "name": "majid",
+        "category": "Inclusive",
+        "payment_time": 4
+    },
+    {
+        "name": "sara",
+        "category": "VIP",
+        "payment_time": 4
+    },
+    {
+        "name": "Muneeb",
+        "category": "Semi-Inclusive",
+        "payment_time": 4
+    },
+    {
+        "name": "umair",
+        "category": "VIP",
+        "payment_time": 1
+    },
+    {
+        "name": "Naeem khan",
+        "category": "VIP",
+        "payment_time": 2
+    },
+    {
+        "name": "Charming king",
+        "category": "VIP",
+        "payment_time": 6
+    },
+    {
+        "name": "saad",
+        "category": "Inclusive",
+        "payment_time": 1
+    },
+    {
+        "name": "hassan",
+        "category": "Inclusive",
+        "payment_time": 2
+    }
+]
