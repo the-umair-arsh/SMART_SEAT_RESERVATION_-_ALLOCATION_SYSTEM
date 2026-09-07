@@ -1,4 +1,4 @@
-# 🎟️ Smart Seat Reservation & Allocation System
+#  Smart Seat Reservation & Allocation System
 
 <p align="center">
   <img src="images/cinema.png" alt="Smart Seat Reservation & Allocation System" width="700">
@@ -29,7 +29,7 @@
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 **Smart Seat Reservation & Allocation System** is a web-based application developed to simplify the process of registering participants and automatically assigning them seats in an organized seating layout.
 
@@ -444,9 +444,9 @@ Software Engineering Student & Developer
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
-This project was developed as a practical software engineering project to demonstrate web development, file-based data management, sorting algorithms, priority handling, and automated seat allocation.
+This project was developed as a practical software engineering project to demonstrate web development course,Algorithem and analysis course (It modifies JOB-Sort-Algo),Logical Backend developement, file-based data management, sorting algorithms, priority handling, and automated seat allocation.
 
 ---
 
